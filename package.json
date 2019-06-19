@@ -1,8 +1,10 @@
 {
-  "name": "sm.simple-uploader",
-  "version": "2.0.7",
+  "name": "shimi-uploader",
+  "version": "0.1.0",
   "description": "A HTML5 upload component without UI",
-  "keywords": ["upload"],
+  "keywords": [
+    "upload"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:mycolorway/simple-uploader.git"
