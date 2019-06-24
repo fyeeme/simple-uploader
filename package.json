@@ -1,6 +1,6 @@
 {
   "name": "shimi-uploader",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A HTML5 upload component without UI",
   "keywords": [
     "upload"
